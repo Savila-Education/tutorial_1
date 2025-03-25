@@ -139,9 +139,9 @@ We walk through this in Google Colab — step by step!
 
 ## Connect with us 
 
-- Instagram → [@savila.education](#)  
-- TikTok → [@savila.education](#)  
-- LinkedIn → [Stephania Kossman](#)
-- LinkedIn → [Luis Fernandon Pérez](#)
+- Instagram → [@savila.education](https://www.instagram.com/savila.education/)  
+- TikTok → [@savila.education](https://www.tiktok.com/@savila.education)  
+- LinkedIn → [Stephania Kossman](https://www.linkedin.com/in/stephania-kossman/)
+- LinkedIn → [Luis Fernando Pérez Armas](https://www.linkedin.com/in/luis-fernando-perez-project-manager/)
 
 Have a tutorial request? Drop it in the comments — we're building this channel with you 🙌
