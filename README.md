@@ -116,7 +116,7 @@ You can use this for:
 
 ## 🎥 Watch the full video
 
-👉 [YouTube Video Link](#) *(Insert your actual link here)*  
+👉 [https://youtu.be/csK2QjD_LlM](#) *(Insert your actual link here)*  
 We walk through this in Google Colab — step by step!
 
 ---
